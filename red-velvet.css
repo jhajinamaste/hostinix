@@ -1,0 +1,662 @@
+/********* FONT *********/
+        h1, h2, h3, h4, h5, h6, p, div, span, ul, li, a, table th, table td, input, select, label,
+        #main-content-domain div,
+        .navbar-default .navbar-nav > li > a,
+        .dropdown-menu > li > a,
+        .page-title,
+        .description-title,
+        .gstart {
+            font-family: 'Roboto Condensed', sans-serif !important;
+        }
+        
+        .glyphicon {
+            font-family: 'Glyphicons Halflings' !important;
+        }
+        
+        .fa {
+            font-family: FontAwesome !important;
+        }
+        
+        /********* TEXT COLOR *********/
+        .navbar-default .navbar-nav > li > a:hover {
+            color: yellow !important;
+        }
+        
+        #additional-services td i,
+        #main-content-zwb + #pricing-strategy h2,
+        .container-row-subtitle,
+        .essential-features-btn {
+            color: #444 !important;
+        }
+        
+        #content-shared h2,
+        #update-info h3,
+        #content-home h2,
+        #footer ul.footer-menu li a:hover,
+        #pricing-strategy h2,
+        #footer-second .tmp-social,
+        #additional-services .gstart:hover,
+        #sub-pricing .pricing-box .pricing-details ul li::before,
+        #pricing-strategy h3,
+        #pricing-strategy .h4,
+        #additional-services td i.fa-check, 
+        #get-started .container-row-title,
+        #pricing-strategy .services-icon .fa,
+        #details .col-title,
+        #details .fa,
+        #details h4,
+        .button-search,
+        .ssl-get-started .gstart:hover,
+        .package-pricing a,
+        .navbar-default .navbar-nav > li:last-of-type > a,
+        .dropdown-menu > li > a,
+        .get-started .gstart:hover,
+        .phone span,
+        .phone a,
+        .home-column.active .column-icon .fa,
+        .home-column.active .column-title,
+        .pricing-title,
+        .pricing-details a,
+        .fa-check,
+        .container-protect-row-title,
+        .dark-color,
+        .content-domain-protect i,
+        .domain-protect-stratedy-box .custom-ul li::before,
+        .zai-softwares .tab-content .plan-title,
+        .faq_question a,
+        .address-content a,
+        .contacts_chat_link,
+        .form-items-holder .form-text input:hover, 
+        .form-items-holder .form-text input:focus,
+        .form-items-holder .form-text textarea:hover,
+        .form-items-holder .form-text textarea:focus {
+            color: #FF0060 !important;
+        }
+        
+        #store-loading-layer div + div,
+        #additional-services h3,
+        #additional-services i,
+        #additional-services div,
+        #get-started.ssl-get-started .fa,
+        #domain-search label,
+        #domain-search select#tlds,
+        #domain-form-area .textfield,
+        main-title-content-domain,
+        .button-search:hover,
+        .ssl-get-started .h3,
+        .ssl-get-started div,
+        .vps-features .services-icon i,
+        .vps-features .services-title,
+        .vps-features .services-details,
+        .navbar-default .navbar-nav > li > a,
+        .navbar-default .navbar-nav > li:last-of-type > a:hover,
+        .page-title,
+        .page-subtitle,
+        .description-title,
+        .home-column,
+        .features-icon-v1,
+        .panel-title,
+        .ribbon-best-plan span {
+            color: #FFF !important;    
+        }
+        
+        #additional-services.free-vs-premium i {
+            color: #ff0060 !important;
+        }
+        
+        #additional-services .essential-features-btn,
+        #additional-services .pricing-box li,
+        #update-info .container-subtitle,
+        #sub-pricing .pricing-icon i,
+        #sub-pricing .pricing-details i,
+        #sub-pricing .pricing-box li,
+        #sub-pricing .pricing-box .plan-title,
+        #sub-pricing .pricing-amount .price .plan-price span,
+        #sub-pricing .pricing-amount .price p,
+        #sub-pricing .pricing-box .pb-15,
+        #additional-services.free-vs-premium .pricing-box li,
+        #additional-services.free-vs-premium .pricing-box .plan-title,
+        #additional-services.free-vs-premium .pricing-amount .price .plan-price span,
+        #additional-services.free-vs-premium .pricing-amount .price p,
+        #additional-services.free-vs-premium .pricing-box .pb-15,
+        .pricing-title,
+        .services-button:hover,
+        .fa-times {
+            color: #444 !important;
+        }
+        
+        /********* BACKGROUND COLOR *********/
+        #main-menu,
+        #store-loading-layer div + div,
+        #additional-services,
+        #domain-form-area,
+        #sub-pricing .pricing-box.green-after:hover::after,
+        #sub-pricing .pricing-box.pink-after::after,
+        #sub-pricing .pricing-box.purple-after::after,
+        #update-info.vps-features-bottom,
+        table th,
+        .tld_search_results .th_styling,
+        .ssl-get-started,
+        .panel-default > .panel-heading,
+        .main-title-content-domain,
+        .features-span-v1,
+        .blue-button,
+        .main-title-content-shared,
+        .main-title-content,
+        .main-title-content-vps,
+        .main-title-content-ssl,
+        .main-title-content-domain-protect,
+        .main-title-content-free,
+        .main-title-content-zai,
+        .main-title-content-zwb,
+        .main-title-support-basics,
+        .main-title-content-about,
+        .main-title-faq,
+        .main-title-guarantees,
+        .main-title-data-center,
+        .region_selector,
+        .region_selector_popup,
+        .feedback_link,
+        .scroll,
+        .gstart,
+        .package-pricing.green-after::after,
+        .package-pricing.purple-after::after,
+        .package-pricing.pink-after::after,
+        .home-column,
+        .ribbon span,
+        .ribbon-best-plan,
+        .table-btn,
+        .nav,
+        .login_form_submit,
+        .btn-about,
+        .faq_hide a,
+        .form-items-holder .form-button input {
+            background-color: #FF0060 !important;
+        }
+        
+        #main-content,
+        #main-content-shared,
+        #main-content-dedicated,
+        #main-content-vps,
+        #main-content-domain,
+        #main-content-ssl,
+        #main-content-domain-protect,
+        #main-content-free,
+        #main-content-zai,
+        #main-content-zwb,
+        #main-support-basics,
+        #main-content-about,
+        #main-faq,
+        #main-guarantees,
+        #main-data-center,
+        #additional-services .gstart,
+        #domain-search label,
+        #domain-search select#tlds,
+        #update-info.vps-features,
+        #domain-form-area .textfield,
+        .services-button,
+        .domain-table,
+        .button-search:hover,
+        .ssl-get-started .gstart,
+        .ssl-table,
+        .gstart:hover, .gstart:focus,
+        .main-title-content .gstart,
+        span.region_selector a:hover,
+        .tmp-menu-btn .gstart:hover,
+        .colored-header,
+        .btn-about:hover,
+        .faq_hide a:hover,
+        .form-items-holder .form-button input:hover {
+            background-color: #EE0F58 !important;
+        }
+        
+        #additional-services .gstart:hover,
+        .navbar-default .navbar-toggle .icon-bar,
+        .button-search,
+        .vps-features h3,
+        .ssl-get-started .gstart:hover,
+        .tmp-menu-btn .gstart,
+        .get-started .gstart:hover,
+        .services-button:hover,
+        .pricing-box,
+        #details .icon-border {
+            background-color: #FFF !important;
+        }
+        
+        #content-home,
+        #content-shared,
+        #update-info,
+        #details .address-content,
+        .colored-header + #get-started {
+            background-color: #F1F1F1 !important;
+        }
+        
+        .zai-softwares .nav {
+            background-color: transparent !important;
+        }
+        
+        /********* IMAGES *********/
+        #main-content,
+        #main-content-shared,
+        #main-content-dedicated,
+        #main-content-domain,
+        #main-content-vps,
+        #main-content-ssl,
+        #main-content-domain-protect,
+        #main-content-free,
+        #main-content-zai,
+        #main-content-zwb,
+        #main-support-basics,
+        #main-content-about,
+        #main-faq,
+        #main-guarantees,
+        #main-data-center {
+            background-image: none !important;
+        }
+        
+        /********* OTHERS *********/
+        .navbar-default .navbar-nav > li > a {
+            padding: 10px 15px !important;
+        }
+        
+        .nav {
+            position: relative !important;
+            top: 1.5rem !important;
+        }
+        
+        .services-button,
+        .button-search,
+        .gstart,
+        .blue-button,
+        .table-btn,
+        .btn-about,
+        .form-items-holder .form-button input {
+            height: 4rem !important;
+            top: 0rem !important;
+            border-radius: 0.25rem !important;
+            padding: 1rem 3rem !important;
+        }
+        
+        .dropdown-menu {
+            top: 4rem !important;
+        }
+        
+        #main-content {
+            padding-top: 15rem !important;
+        }
+        
+        .green-button,
+        .purple-button,
+        .pink-button {
+            border-radius: 0.25rem !important;
+        }
+        
+        .package-pricing {
+            height: 45rem !important;
+        }
+        
+        .home-column {
+            height: 27rem !important;
+        }
+        
+        .home-column.active .column-subtitle {
+            font-size: 17px !important;
+        }
+        
+        .main-menu {
+            position: fixed !important;
+            width: 100% !important;
+            z-index: 999 !important;
+        }
+        
+        #main-content-shared.inner-page,
+        #main-content-dedicated.inner-page,
+        #main-content-vps.inner-page,
+        #main-content-domain.inner-page,
+        #main-content-ssl.inner-page,
+        #main-content-domain-protect.inner-page,
+        #main-content-free.inner-page,
+        #main-content-zai.inner-page,
+        #main-content-zwb.inner-page,
+        #main-support-basics.inner-page,
+        #main-content-about.inner-page,
+        #main-faq.inner-page,
+        #main-guarantees.inner-page,
+        #main-data-center.inner-page {
+            padding-top: 10rem !important;
+            padding-bottom: 4rem !important;
+        }
+        
+        #sub-pricing .container {
+            margin-top: 2rem !important;
+        }
+        
+        .vps-description {
+            margin-bottom: 2rem !important;
+            text-align: center !important;
+        }
+        
+        .vps-features h3 {
+            padding: 1rem 3rem !important;
+            width: max-content !important;
+            margin: 0 auto !important;
+            border-radius: 0.25rem !important;
+        }
+        
+        .button-search {
+            position: relative !important;
+            top: 1px !important;
+            margin-left: 4px !important;
+        }
+        
+        .domain-table {
+            padding: 2rem !important;
+        }
+        
+        .domain-table .panel-group {
+            margin-bottom: 0 !important;
+        }
+        
+        .domain-table .panel {
+            border: none !important;
+        }
+        
+        .popover-text span {
+            font-family: FontAwesome !important;
+        }
+        
+        .ssl-table {
+            padding: 2rem !important;
+        }
+        
+        .ssl-table .table {
+            margin-bottom: 0px !important;
+        }
+        
+        form#domain-search {
+            left: 21rem !important;
+            position: relative !important;
+            width: 75rem !important;
+        }
+        
+        #domain-search label {
+            visibility: visible !important;
+            margin: 0 3px 0 0px !important;
+            text-align: center !important;
+            font-weight: normal !important;
+        }
+        
+        #domain-form-area .textfield {
+            width: 55% !important;
+            padding: 7.7px 7px !important;
+            border: none !important;
+            border-bottom: none !important;
+            border-radius: 0 !important;
+            margin: 0px 6px 0px 0px !important;
+            text-align: center !important;
+        }
+        
+        #domain-search select#tlds {
+            border: none !important;
+            border-bottom: none !important;
+            padding: 7px 7px 7px !important;
+            border-radius: 0 !important;
+            height: 41px !important;
+        }
+        
+        #domain-form-area {
+            border: none !important;
+            border-bottom: none !important;
+            border-radius: 0 !important;
+        }
+        
+        .domain-box-features {
+            height: 32rem !important;
+            background: #f1f1f1 !important;
+        }
+        
+        .domain-box-features h4,
+        .domain-box-features .h4 {
+            font-size: 20px !important;
+        }
+        
+        .description-title {
+            margin-bottom: 2rem !important;
+        }
+        
+        .container-row-subtitle .custom-ul {
+            margin-top: 2rem !important;
+        }
+        
+        .free-features-title {
+            margin-top: 1rem !important;
+        }
+        
+        .content-domain-protect .domain-box-features {
+            height: 38rem !important;
+        }
+        
+        .domain-protect-stratedy-box {
+            height: auto !important;
+            padding: 2rem !important;
+        }
+        
+        #main-content-zwb + #pricing-strategy h2 {
+            margin-bottom: 4rem;
+        }
+        
+        .zai-softwares .nav {
+            top: 0rem !important;
+        }
+        
+        #pricing-strategy.free-features h2 {
+            margin-bottom: 4rem;
+        }
+        
+        .zai-softwares .tabbable-line > .nav-tabs > li.open, .tabbable-line > .nav-tabs > li:hover {
+            border-bottom: 4px solid #ff006045 !important;
+        }
+        
+        .zai-softwares .tabbable-line > .nav-tabs > li.active {
+            border-bottom: 4px solid #FF0060 !important;
+        }
+        
+        .colored-header {
+            padding-top: 10rem !important;
+            padding-bottom: 2rem !important;
+        }
+        
+        .colored-header + #get-started {
+            padding-top: 30px !important;
+        }
+        
+        #main-content .main-title-content,
+        #main-content-shared .main-title-content-shared,
+        #main-content-dedicated .main-title-content-shared,
+        #main-content-vps .main-title-content-vps,
+        #main-content-domain .main-title-content-domain,
+        #main-content-ssl .main-title-content-ssl,
+        #main-content-domain-protect .main-title-content-domain-protect,
+        #main-content-free .main-title-content-free,
+        #main-content-zai .main-title-content-zai,
+        #main-content-zwb .main-title-content-zwb,
+        #main-support-basics .main-title-support-basics,
+        #main-content-about .main-title-content-about,
+        #main-faq .main-title-faq,
+        #main-guarantees .main-title-guarantees,
+        #main-data-center .main-title-data-center {
+            opacity: 1 !important;
+        }
+        
+        .colored-header .features-title {
+            text-align: center !important;
+            color: #FFF !important;
+            width: 70% !important;
+            height: 100% !important;
+            margin: auto !important;
+            padding: 30px 5px !important;
+            transform: scale(1) rotateX(30deg) !important;
+            background: #ff0060 !important;
+            font-size: 50px !important;
+        }
+        
+        .image-data-center img {
+            width: 35rem !important;
+            margin: 10px 0 30px;
+            padding: 0 !important;
+            transition: all 0.3s ease 0.0s;
+            border: none !important;
+            border-radius: 0 !important;
+            height: 20rem !important;
+        }
+        
+        .image-data-center-internal img {
+            width: 100% !important;
+            padding: 0 !important;
+            border: none !important;
+            border-radius: 0 !important;
+        }
+        
+        .newspaper {
+            column-count: unset !important;    
+        }
+        
+        #content-about-us .domain-box-features {
+            height: 37rem !important;
+        }
+        
+        #content-about-us .domain-box-features .btn-group, .btn-group-vertical {
+            top: 3rem;
+        }
+        
+        #content-about-us .about-us-box-details {
+            margin-bottom: 0 !important;
+        }
+        
+        #accordion .faq_answer {
+            margin: 0 0 3rem !important;
+            padding: 2rem !important;
+            border: 1px solid #ff006045 !important;
+            border-bottom: 1px solid #ff006045 !important;
+            border-radius: 0.25rem !important;
+        }
+        
+        .faq_hide {
+            margin-top: 2rem !important;
+            right: 0 !important;
+            text-align: left !important;
+        }
+        
+        .faq_hide a {
+            border-radius: 0.25rem !important;
+        }
+        
+        #details .address-content {
+            margin-bottom: 1rem !important;
+            padding: 2rem !important;
+            border: none !important;
+            border-bottom: none !important;
+            border-radius: 0.25rem !important;
+        }
+        
+        #details .fa {
+            margin: 0px 10px 0px 0 !important;
+        }
+        
+        #department:focus,
+        .form-items-holder .form-text input:hover, 
+        .form-items-holder .form-text input:focus,
+        .form-items-holder .form-text textarea:hover,
+        .form-items-holder .form-text textarea:focus {
+            border: 1px solid #ff0060 !important;
+        }
+        
+        #department {
+            border: none !important;
+            background-color: #F3F8FB !important;
+            padding: 1.5rem !important;
+        }
+        
+        .security-img {
+            border: none !important;
+            border-bottom: none !important;
+        }
+        
+        /********* RESPONSIVENESS *********/
+        @media (max-width: 480px) {
+            #domain-form-area, .domain-box table {
+                width: 120% !important;
+                left: -3.1rem;
+                position: relative;
+            }
+            
+            form#domain-search {
+                left: 0.5rem !important;
+                width: 100% !important;    
+            }
+            
+            #domain-search label {
+                visibility: visible !important;
+                display: block !important;
+                font-size: 1.5rem !important;
+                height: 35.8px !important;
+            }
+            
+            .domain-form-area .textfield {
+                width: 54% !important;
+                padding: 7.7px 7px !important;
+            }
+            
+            #domain-search input#domain-name {
+                clear: none !important;
+            }
+            
+            #domain-search select#tlds {
+                padding: 7px 7px 7px !important;
+                height: 35.3px !important;
+            }
+            
+            .button-search {
+                position: relative !important;
+                top: 1px !important;
+                left: 12rem !important;
+            }
+            
+            .container-nav {
+                height: 0 !important;
+            }
+            
+            .navbar-toggle {
+                padding: 15px 15px !important;
+            }
+            
+            .navbar-collapse {
+                top: -25px !important;
+                position: relative !important;
+            }
+            
+            #main-content {
+                padding-top: 10rem !important;
+            }
+            
+            .dropdown-menu {
+                top: 0rem !important;
+            }
+            
+            #main-content-shared .main-title-content-shared,
+            #main-content-dedicated .main-title-content-shared,
+            #main-content-vps .main-title-content-vps,
+            #main-content-domain .main-title-content-domain,
+            #main-content-ssl .main-title-content-ssl,
+            #main-content-domain-protect .main-title-content-domain-protect,
+            #main-content-free .main-title-content-free,
+            #main-content-zai .main-title-content-zai,
+            #main-content-zwb .main-title-content-zwb,
+            #main-support-basics .main-title-support-basics,
+            #main-content-about .main-title-content-about,
+            #main-faq .main-title-faq,
+            #main-guarantees .main-title-guarantees,
+            #main-data-center .main-title-data-center {
+                width: 100% !important;
+            }
+        }
